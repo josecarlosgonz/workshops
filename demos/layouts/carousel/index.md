@@ -8,7 +8,7 @@ mode   : selfcontained
 ## Carousel
 
 
-*** {class: active, img: "http://placehold.it/950x500"}
+*** {class: active, img: "http://bit.ly/195WXXI"}
 
 Image 1
 

@@ -1,6 +1,6 @@
 ---
 title: Frameworks
-framework: revealjs
+framework: deckls
 mode: selfcontained
 ---
 
